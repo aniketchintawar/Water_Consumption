@@ -7,7 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9AB876472C281F6A00231695 /* hydrationTracking.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9AB876432C281DAD00231695 /* hydrationTracking.xcdatamodeld */; };
+		9AA953C52C2893CE00DBBCA5 /* hydrationTracking.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9AA953C32C2893CE00DBBCA5 /* hydrationTracking.xcdatamodeld */; };
+		9AA953CC2C2894EF00DBBCA5 /* MemberWaterCousuptionDetails+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AA953C82C2894EF00DBBCA5 /* MemberWaterCousuptionDetails+CoreDataClass.swift */; };
+		9AA953CD2C2894EF00DBBCA5 /* MemberWaterCousuptionDetails+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AA953C92C2894EF00DBBCA5 /* MemberWaterCousuptionDetails+CoreDataProperties.swift */; };
+		9AA953CE2C2894EF00DBBCA5 /* LoginDetails+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AA953CA2C2894EF00DBBCA5 /* LoginDetails+CoreDataClass.swift */; };
+		9AA953CF2C2894EF00DBBCA5 /* LoginDetails+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AA953CB2C2894EF00DBBCA5 /* LoginDetails+CoreDataProperties.swift */; };
 		9AB876492C28230800231695 /* SignUpVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB876482C28230800231695 /* SignUpVM.swift */; };
 		9AB8764B2C28278800231695 /* ForgetPasswordVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB8764A2C28278800231695 /* ForgetPasswordVM.swift */; };
 		9AB8764D2C28304800231695 /* WaterConsumptionVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB8764C2C28304800231695 /* WaterConsumptionVM.swift */; };
@@ -21,10 +25,6 @@
 		9AB979142C21EE3F006D01D7 /* ForgotPasswordVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB979132C21EE3F006D01D7 /* ForgotPasswordVC.swift */; };
 		9AB979162C226E6B006D01D7 /* indexVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB979152C226E6B006D01D7 /* indexVC.swift */; };
 		9AB9792E2C234257006D01D7 /* waterConsuptionHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB9792D2C234257006D01D7 /* waterConsuptionHelper.swift */; };
-		9AB979382C28073F006D01D7 /* LoginDetails+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB979342C28073F006D01D7 /* LoginDetails+CoreDataClass.swift */; };
-		9AB979392C28073F006D01D7 /* LoginDetails+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB979352C28073F006D01D7 /* LoginDetails+CoreDataProperties.swift */; };
-		9AB9793C2C280837006D01D7 /* MemberWaterCousuptionDetails+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB9793A2C280837006D01D7 /* MemberWaterCousuptionDetails+CoreDataClass.swift */; };
-		9AB9793D2C280837006D01D7 /* MemberWaterCousuptionDetails+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB9793B2C280837006D01D7 /* MemberWaterCousuptionDetails+CoreDataProperties.swift */; };
 		9AB979422C281344006D01D7 /* LoginVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB979412C281344006D01D7 /* LoginVM.swift */; };
 		9AB979442C2814A9006D01D7 /* Utiles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB979432C2814A9006D01D7 /* Utiles.swift */; };
 		9ABA684B2C2093A900DF3956 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ABA684A2C2093A900DF3956 /* AppDelegate.swift */; };
@@ -36,7 +36,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		9AB876442C281DAD00231695 /* hydrationTracking.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = hydrationTracking.xcdatamodel; sourceTree = "<group>"; };
+		9AA953C42C2893CE00DBBCA5 /* hydrationTracking.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = hydrationTracking.xcdatamodel; sourceTree = "<group>"; };
+		9AA953C82C2894EF00DBBCA5 /* MemberWaterCousuptionDetails+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "MemberWaterCousuptionDetails+CoreDataClass.swift"; sourceTree = "<group>"; };
+		9AA953C92C2894EF00DBBCA5 /* MemberWaterCousuptionDetails+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "MemberWaterCousuptionDetails+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		9AA953CA2C2894EF00DBBCA5 /* LoginDetails+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "LoginDetails+CoreDataClass.swift"; sourceTree = "<group>"; };
+		9AA953CB2C2894EF00DBBCA5 /* LoginDetails+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "LoginDetails+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		9AB876482C28230800231695 /* SignUpVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpVM.swift; sourceTree = "<group>"; };
 		9AB8764A2C28278800231695 /* ForgetPasswordVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForgetPasswordVM.swift; sourceTree = "<group>"; };
 		9AB8764C2C28304800231695 /* WaterConsumptionVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterConsumptionVM.swift; sourceTree = "<group>"; };
@@ -50,10 +54,6 @@
 		9AB979132C21EE3F006D01D7 /* ForgotPasswordVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForgotPasswordVC.swift; sourceTree = "<group>"; };
 		9AB979152C226E6B006D01D7 /* indexVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = indexVC.swift; sourceTree = "<group>"; };
 		9AB9792D2C234257006D01D7 /* waterConsuptionHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = waterConsuptionHelper.swift; sourceTree = "<group>"; };
-		9AB979342C28073F006D01D7 /* LoginDetails+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LoginDetails+CoreDataClass.swift"; sourceTree = SOURCE_ROOT; };
-		9AB979352C28073F006D01D7 /* LoginDetails+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LoginDetails+CoreDataProperties.swift"; sourceTree = SOURCE_ROOT; };
-		9AB9793A2C280837006D01D7 /* MemberWaterCousuptionDetails+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MemberWaterCousuptionDetails+CoreDataClass.swift"; sourceTree = SOURCE_ROOT; };
-		9AB9793B2C280837006D01D7 /* MemberWaterCousuptionDetails+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MemberWaterCousuptionDetails+CoreDataProperties.swift"; sourceTree = SOURCE_ROOT; };
 		9AB979412C281344006D01D7 /* LoginVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVM.swift; sourceTree = "<group>"; };
 		9AB979432C2814A9006D01D7 /* Utiles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utiles.swift; sourceTree = "<group>"; };
 		9ABA68472C2093A900DF3956 /* hydrationTracking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hydrationTracking.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -77,15 +77,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		9AB979172C2326F0006D01D7 /* DefaultCoureDetailFile */ = {
+		9AA953C72C2894EF00DBBCA5 /* DefaultCoreDetailFile */ = {
 			isa = PBXGroup;
 			children = (
-				9AB9793A2C280837006D01D7 /* MemberWaterCousuptionDetails+CoreDataClass.swift */,
-				9AB9793B2C280837006D01D7 /* MemberWaterCousuptionDetails+CoreDataProperties.swift */,
-				9AB979342C28073F006D01D7 /* LoginDetails+CoreDataClass.swift */,
-				9AB979352C28073F006D01D7 /* LoginDetails+CoreDataProperties.swift */,
+				9AA953C82C2894EF00DBBCA5 /* MemberWaterCousuptionDetails+CoreDataClass.swift */,
+				9AA953C92C2894EF00DBBCA5 /* MemberWaterCousuptionDetails+CoreDataProperties.swift */,
+				9AA953CA2C2894EF00DBBCA5 /* LoginDetails+CoreDataClass.swift */,
+				9AA953CB2C2894EF00DBBCA5 /* LoginDetails+CoreDataProperties.swift */,
 			);
-			path = DefaultCoureDetailFile;
+			path = DefaultCoreDetailFile;
 			sourceTree = "<group>";
 		};
 		9AB9792C2C2341FF006D01D7 /* Model */ = {
@@ -151,8 +151,8 @@
 		9ABA68492C2093A900DF3956 /* hydrationTracking */ = {
 			isa = PBXGroup;
 			children = (
+				9AA953C72C2894EF00DBBCA5 /* DefaultCoreDetailFile */,
 				9AB979402C2811B3006D01D7 /* Utiles */,
-				9AB979172C2326F0006D01D7 /* DefaultCoureDetailFile */,
 				9AB9793E2C280FC8006D01D7 /* View */,
 				9AB9793F2C28114D006D01D7 /* ViewModel */,
 				9AB9792C2C2341FF006D01D7 /* Model */,
@@ -162,7 +162,7 @@
 				9ABA68562C2093AB00DF3956 /* Assets.xcassets */,
 				9ABA68582C2093AB00DF3956 /* LaunchScreen.storyboard */,
 				9ABA685B2C2093AB00DF3956 /* Info.plist */,
-				9AB876432C281DAD00231695 /* hydrationTracking.xcdatamodeld */,
+				9AA953C32C2893CE00DBBCA5 /* hydrationTracking.xcdatamodeld */,
 			);
 			path = hydrationTracking;
 			sourceTree = "<group>";
@@ -238,27 +238,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9AB876472C281F6A00231695 /* hydrationTracking.xcdatamodeld in Sources */,
+				9AA953CF2C2894EF00DBBCA5 /* LoginDetails+CoreDataProperties.swift in Sources */,
 				9ABA684F2C2093A900DF3956 /* LoginVC.swift in Sources */,
 				9AB978FC2C213233006D01D7 /* AddWaterConsuptionDetails.swift in Sources */,
 				9AB979042C21DA1E006D01D7 /* PersistentStorage.swift in Sources */,
-				9AB979392C28073F006D01D7 /* LoginDetails+CoreDataProperties.swift in Sources */,
 				9AB9790A2C21DDD0006D01D7 /* memberLoginData.swift in Sources */,
 				9AB978FE2C2135AE006D01D7 /* WaterConsuptionAllRecords.swift in Sources */,
+				9AA953CC2C2894EF00DBBCA5 /* MemberWaterCousuptionDetails+CoreDataClass.swift in Sources */,
 				9AB9790C2C21DE3C006D01D7 /* ModelData.swift in Sources */,
 				9AB979142C21EE3F006D01D7 /* ForgotPasswordVC.swift in Sources */,
-				9AB9793C2C280837006D01D7 /* MemberWaterCousuptionDetails+CoreDataClass.swift in Sources */,
+				9AA953CE2C2894EF00DBBCA5 /* LoginDetails+CoreDataClass.swift in Sources */,
 				9AB8764D2C28304800231695 /* WaterConsumptionVM.swift in Sources */,
+				9AA953CD2C2894EF00DBBCA5 /* MemberWaterCousuptionDetails+CoreDataProperties.swift in Sources */,
 				9ABA684B2C2093A900DF3956 /* AppDelegate.swift in Sources */,
 				9AB979442C2814A9006D01D7 /* Utiles.swift in Sources */,
 				9AB876492C28230800231695 /* SignUpVM.swift in Sources */,
 				9AB979122C21ED94006D01D7 /* SignUpVC.swift in Sources */,
-				9AB979382C28073F006D01D7 /* LoginDetails+CoreDataClass.swift in Sources */,
-				9AB9793D2C280837006D01D7 /* MemberWaterCousuptionDetails+CoreDataProperties.swift in Sources */,
 				9AB979422C281344006D01D7 /* LoginVM.swift in Sources */,
 				9ABA684D2C2093A900DF3956 /* SceneDelegate.swift in Sources */,
 				9AB979162C226E6B006D01D7 /* indexVC.swift in Sources */,
 				9AB876502C284A2F00231695 /* WaterConsuptionAllRecordsVM.swift in Sources */,
+				9AA953C52C2893CE00DBBCA5 /* hydrationTracking.xcdatamodeld in Sources */,
 				9AB8764B2C28278800231695 /* ForgetPasswordVM.swift in Sources */,
 				9AB9792E2C234257006D01D7 /* waterConsuptionHelper.swift in Sources */,
 			);
@@ -483,14 +483,13 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		9AB876432C281DAD00231695 /* hydrationTracking.xcdatamodeld */ = {
+		9AA953C32C2893CE00DBBCA5 /* hydrationTracking.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				9AB876442C281DAD00231695 /* hydrationTracking.xcdatamodel */,
+				9AA953C42C2893CE00DBBCA5 /* hydrationTracking.xcdatamodel */,
 			);
-			currentVersion = 9AB876442C281DAD00231695 /* hydrationTracking.xcdatamodel */;
-			name = hydrationTracking.xcdatamodeld;
-			path = ../../../hydrationTracking/hydrationTracking/hydrationTracking.xcdatamodeld;
+			currentVersion = 9AA953C42C2893CE00DBBCA5 /* hydrationTracking.xcdatamodel */;
+			path = hydrationTracking.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};

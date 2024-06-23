@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BB41E572-3E0D-4385-9F97-3B0497F67670"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E62D351-81AF-4E62-8498-089266AFADDC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hydrationTracking/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "forgotButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0B11E8A-B236-4217-8351-4C5298E21FC3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hydrationTracking/memberLoginData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "isMemberValid(byIdentifier:password:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0AABA11-561A-4890-92E7-D46809DB015C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hydrationTracking/indexVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F0AABA11-561A-4890-92E7-D46809DB015C - f93914747bb3baa7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hydrationTracking.indexVC.makeCircular(imageView: __C.UIImageView) -&gt; ()"
+                  moduleName = "hydrationTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aniketchintawar/Desktop/Pratices/hydrationTracking/hydrationTracking/indexVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "F0AABA11-561A-4890-92E7-D46809DB015C - de164b21fe477ec2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hydrationTracking.indexVC.viewDidLoad() -&gt; ()"
+                  moduleName = "hydrationTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aniketchintawar/Desktop/Pratices/hydrationTracking/hydrationTracking/indexVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC1D8944-136D-4105-A7D8-BD02DDE88B2B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hydrationTracking/indexVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BC1D8944-136D-4105-A7D8-BD02DDE88B2B - f93914747bb3baa7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hydrationTracking.indexVC.makeCircular(imageView: __C.UIImageView) -&gt; ()"
+                  moduleName = "hydrationTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aniketchintawar/Desktop/Pratices/hydrationTracking/hydrationTracking/indexVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "BC1D8944-136D-4105-A7D8-BD02DDE88B2B - de164b21fe477f04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hydrationTracking.indexVC.viewDidLoad() -&gt; ()"
+                  moduleName = "hydrationTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aniketchintawar/Desktop/Pratices/hydrationTracking/hydrationTracking/indexVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8472064-27D3-42FE-AD29-5B5347618038"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hydrationTracking/AddWaterConsuptionDetails.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "addLabelsToStackView(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E8472064-27D3-42FE-AD29-5B5347618038 - 8860e7411f621c76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hydrationTracking.AddWaterConsuptionDetails.addLabelsToStackView(Swift.Array&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "hydrationTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aniketchintawar/Desktop/Pratices/hydrationTracking/hydrationTracking/AddWaterConsuptionDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  uuid = "E8472064-27D3-42FE-AD29-5B5347618038 - 8860e7411f621c76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hydrationTracking.AddWaterConsuptionDetails.addLabelsToStackView(Swift.Array&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "hydrationTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aniketchintawar/Desktop/Pratices/hydrationTracking/hydrationTracking/AddWaterConsuptionDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "408">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CDDD4F49-91D5-4C0E-B7D9-5200BA5682C2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hydrationTracking/DataBaseHelper/waterConsuptionHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "getAll(forMemberId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CDDD4F49-91D5-4C0E-B7D9-5200BA5682C2 - b0ce839ac8860349"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hydrationTracking.waterConsuptionHelper.getAll(forMemberId: Swift.String) -&gt; Swift.Optional&lt;Swift.Array&lt;hydrationTracking.consuption&gt;&gt;"
+                  moduleName = "hydrationTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aniketchintawar/Desktop/Pratices/hydrationTracking/hydrationTracking/DataBaseHelper/waterConsuptionHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "892">
+               </Location>
+               <Location
+                  uuid = "CDDD4F49-91D5-4C0E-B7D9-5200BA5682C2 - b0ce839ac8860349"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hydrationTracking.waterConsuptionHelper.getAll(forMemberId: Swift.String) -&gt; Swift.Optional&lt;Swift.Array&lt;hydrationTracking.consuption&gt;&gt;"
+                  moduleName = "hydrationTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aniketchintawar/Desktop/Pratices/hydrationTracking/hydrationTracking/DataBaseHelper/waterConsuptionHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "772">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F23F48F-0424-4CF2-ADD8-4187EC1B3AC3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hydrationTracking/DataBaseHelper/waterConsuptionHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getAll(forMemberId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6F23F48F-0424-4CF2-ADD8-4187EC1B3AC3 - b0ce839ac8860051"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hydrationTracking.waterConsuptionHelper.getAll(forMemberId: Swift.String) -&gt; Swift.Optional&lt;Swift.Array&lt;hydrationTracking.consuption&gt;&gt;"
+                  moduleName = "hydrationTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aniketchintawar/Desktop/Pratices/hydrationTracking/hydrationTracking/DataBaseHelper/waterConsuptionHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "460">
+               </Location>
+               <Location
+                  uuid = "6F23F48F-0424-4CF2-ADD8-4187EC1B3AC3 - b0ce839ac8860193"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hydrationTracking.waterConsuptionHelper.getAll(forMemberId: Swift.String) -&gt; Swift.Optional&lt;Swift.Array&lt;hydrationTracking.consuption&gt;&gt;"
+                  moduleName = "hydrationTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aniketchintawar/Desktop/Pratices/hydrationTracking/hydrationTracking/DataBaseHelper/waterConsuptionHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3599531C-594E-4EF3-ADA2-0F638E33EE6D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hydrationTracking/AddWaterConsuptionDetails.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "calculateTotalLiters(consuptionArray:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3FE2A665-CFE7-44B9-AB4A-00AE609B6C7D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hydrationTracking/AddWaterConsuptionDetails.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "addLabelsToStackView(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "40B42432-3799-4792-8241-F4EA27BA5F7D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hydrationTracking/View/LoginVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "loginButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "40B42432-3799-4792-8241-F4EA27BA5F7D - a6eed0f3f29c0ce0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hydrationTracking.LoginVC.loginButton(Any) -&gt; ()"
+                  moduleName = "hydrationTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aniketchintawar/Desktop/Pratices/hydrationTracking/hydrationTracking/View/LoginVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "3020">
+               </Location>
+               <Location
+                  uuid = "40B42432-3799-4792-8241-F4EA27BA5F7D - 56bfd8a3e0f2b489"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in hydrationTracking.LoginVC.loginButton(Any) -&gt; ()"
+                  moduleName = "hydrationTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aniketchintawar/Desktop/Pratices/hydrationTracking/hydrationTracking/View/LoginVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "40B42432-3799-4792-8241-F4EA27BA5F7D - a6eed0f3f29c0ce0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hydrationTracking.LoginVC.loginButton(Any) -&gt; ()"
+                  moduleName = "hydrationTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aniketchintawar/Desktop/Pratices/hydrationTracking/hydrationTracking/View/LoginVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "2288">
+               </Location>
+               <Location
+                  uuid = "40B42432-3799-4792-8241-F4EA27BA5F7D - a6eed0f3f29c0c81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hydrationTracking.LoginVC.loginButton(Any) -&gt; ()"
+                  moduleName = "hydrationTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aniketchintawar/Desktop/Pratices/hydrationTracking/hydrationTracking/View/LoginVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "2288">
+               </Location>
+               <Location
+                  uuid = "40B42432-3799-4792-8241-F4EA27BA5F7D - a6eed0f3f29c0d05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hydrationTracking.LoginVC.loginButton(Any) -&gt; ()"
+                  moduleName = "hydrationTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aniketchintawar/Desktop/Pratices/hydrationTracking/hydrationTracking/View/LoginVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "2972">
+               </Location>
+               <Location
+                  uuid = "40B42432-3799-4792-8241-F4EA27BA5F7D - a6eed0f3f29c0d05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hydrationTracking.LoginVC.loginButton(Any) -&gt; ()"
+                  moduleName = "hydrationTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aniketchintawar/Desktop/Pratices/hydrationTracking/hydrationTracking/View/LoginVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "3276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D713E84-6AF3-4ACA-97FD-26DCFDA1F6D0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hydrationTracking/ViewModel/ForgetPasswordVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "updateLoginDetails(memberId:password:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8314BE4B-7D95-44CB-B324-5569B0F57841"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hydrationTracking/Model/memberLoginData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "update(Member:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62DFB4D9-D475-488C-B366-29489073F1B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hydrationTracking/Model/memberLoginData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "getcdMember(byidentifier:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE0E186F-A51A-435B-B8A7-B69009A30B9D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hydrationTracking/Model/memberLoginData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "update(Member:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BF339AD-31F0-4F82-8629-8BD9F9555EEA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hydrationTracking/ViewModel/WaterConsumptionVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "getwaterConsuptionDetails()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "373E7719-B2B6-4124-BF59-31F2C214AA24"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hydrationTracking/Model/waterConsuptionHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "getAll(forMemberId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5ADFC8E1-DE4B-4FBE-849F-2219566633D4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hydrationTracking/View/WaterConsuptionAllRecords.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "updateConsumption(newValue:at:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6086771-DE1B-431C-9290-B375530F730D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hydrationTracking/Model/waterConsuptionHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "update(Member:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "367B81BE-043E-46E1-9D46-953D76078C69"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hydrationTracking/Model/waterConsuptionHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "getcdMember(byidentifier:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C14E7ED-223E-441E-91E8-B1E7B5B45720"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hydrationTracking/View/LoginVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "loginButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -7,7 +7,7 @@
 
 import UIKit
 
-class AddWaterConsuptionDetails: UIViewController,UIPickerViewDelegate,UIPickerViewDataSource {
+class AddWaterConsuptionDetails: KeyboardHandling,UIPickerViewDelegate,UIPickerViewDataSource {
 
     @IBOutlet weak var txtTime: UITextField!
     @IBOutlet weak var waterConsuptionStack: UIView!

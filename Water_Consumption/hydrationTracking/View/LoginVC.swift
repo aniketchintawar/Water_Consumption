@@ -7,7 +7,7 @@
 
 import UIKit
 
-class LoginVC: UIViewController {
+class LoginVC:KeyboardHandling{
    
 
     @IBOutlet weak var btnLogin: UIButton!
@@ -18,9 +18,10 @@ class LoginVC: UIViewController {
     @IBOutlet weak var btnSignUp: UIButton!
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        txtPassword.delegate = self
         debugPrint("Data base url \(getDocumentsDirectory())")
     }
+    
     func getDocumentsDirectory() -> URL {
         let paths = FileManager.default.urls(for: .documentDirectory, in: .userDomainMask)
         return paths[0]
@@ -103,7 +104,7 @@ class LoginVC: UIViewController {
             content.sound = .default
             
             // Configure notification trigger for every half hour
-            let trigger = UNTimeIntervalNotificationTrigger(timeInterval: 60, repeats: true) //1800
+            let trigger = UNTimeIntervalNotificationTrigger(timeInterval: 1800, repeats: true) //1800
             
             // Create a notification request
             let request = UNNotificationRequest(identifier: "halfHourlyNotification", content: content, trigger: trigger)

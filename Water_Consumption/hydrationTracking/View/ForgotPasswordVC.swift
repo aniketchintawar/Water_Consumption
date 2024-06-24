@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ForgotPasswordVC: UIViewController {
+class ForgotPasswordVC: KeyboardHandling {
 
     @IBOutlet weak var btnforget: UIButton!
     @IBOutlet weak var btnLogin: UIButton!
@@ -17,7 +17,9 @@ class ForgotPasswordVC: UIViewController {
     var forgetPasswordVM = ForgetPasswordVM()
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        txtPassword.delegate = self
+        txtconformPassword.delegate = self
+        memberId.delegate = self
     
     }
     

@@ -7,7 +7,7 @@
 
 import UIKit
 
-class indexVC: UIViewController {
+class indexVC: KeyboardHandling {
 
     @IBOutlet weak var indexPageLog: UIImageView!
     @IBOutlet weak var startDateTextField: UITextField!
@@ -20,7 +20,7 @@ class indexVC: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
+          
            makeCircular(imageView: indexPageLog)
         
                 datePicker = UIDatePicker()

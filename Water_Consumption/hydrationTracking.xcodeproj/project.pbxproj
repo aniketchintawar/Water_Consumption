@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9A00FF0F2C29CB790055E3C3 /* KeyboardHandling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A00FF0E2C29CB790055E3C3 /* KeyboardHandling.swift */; };
 		9AA953C52C2893CE00DBBCA5 /* hydrationTracking.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9AA953C32C2893CE00DBBCA5 /* hydrationTracking.xcdatamodeld */; };
 		9AA953CC2C2894EF00DBBCA5 /* MemberWaterCousuptionDetails+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AA953C82C2894EF00DBBCA5 /* MemberWaterCousuptionDetails+CoreDataClass.swift */; };
 		9AA953CD2C2894EF00DBBCA5 /* MemberWaterCousuptionDetails+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AA953C92C2894EF00DBBCA5 /* MemberWaterCousuptionDetails+CoreDataProperties.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9A00FF0E2C29CB790055E3C3 /* KeyboardHandling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardHandling.swift; sourceTree = "<group>"; };
 		9AA953C42C2893CE00DBBCA5 /* hydrationTracking.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = hydrationTracking.xcdatamodel; sourceTree = "<group>"; };
 		9AA953C82C2894EF00DBBCA5 /* MemberWaterCousuptionDetails+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "MemberWaterCousuptionDetails+CoreDataClass.swift"; sourceTree = "<group>"; };
 		9AA953C92C2894EF00DBBCA5 /* MemberWaterCousuptionDetails+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "MemberWaterCousuptionDetails+CoreDataProperties.swift"; sourceTree = "<group>"; };
@@ -128,6 +130,7 @@
 			children = (
 				9AB979032C21DA1E006D01D7 /* PersistentStorage.swift */,
 				9AB979432C2814A9006D01D7 /* Utiles.swift */,
+				9A00FF0E2C29CB790055E3C3 /* KeyboardHandling.swift */,
 			);
 			path = Utiles;
 			sourceTree = "<group>";
@@ -253,6 +256,7 @@
 				9ABA684B2C2093A900DF3956 /* AppDelegate.swift in Sources */,
 				9AB979442C2814A9006D01D7 /* Utiles.swift in Sources */,
 				9AB876492C28230800231695 /* SignUpVM.swift in Sources */,
+				9A00FF0F2C29CB790055E3C3 /* KeyboardHandling.swift in Sources */,
 				9AB979122C21ED94006D01D7 /* SignUpVC.swift in Sources */,
 				9AB979422C281344006D01D7 /* LoginVM.swift in Sources */,
 				9ABA684D2C2093A900DF3956 /* SceneDelegate.swift in Sources */,

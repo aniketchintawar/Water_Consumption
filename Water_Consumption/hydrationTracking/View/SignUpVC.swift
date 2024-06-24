@@ -7,7 +7,7 @@
 
 import UIKit
 
-class SignUpVC: UIViewController {
+class SignUpVC: KeyboardHandling {
     @IBOutlet weak var txtFullName: UITextField!
     
     @IBOutlet weak var btnSignUp: UIButton!
@@ -18,8 +18,12 @@ class SignUpVC: UIViewController {
     var signUp = SignUpVM()
     override func viewDidLoad() {
         super.viewDidLoad()
-    memberId = String(generateFiveDigitRandomNumber())
-
+        memberId = String(generateFiveDigitRandomNumber())
+        txtpassword.delegate = self
+        txtEmail.delegate = self
+        txtFullName.delegate = self
+        txtMobileNo.delegate = self
+        
     }
     
     override func viewWillAppear(_ animated: Bool) {
@@ -29,12 +33,12 @@ class SignUpVC: UIViewController {
         clearAllTextField()
     }
     
-
+    
     @IBAction func signUpButton(_ sender: Any) {
         btnSignUp.isEnabled = false
         guard let fullName = txtFullName.text,!fullName.isEmpty  else {
-                self.showAlert(title: "Empty Field", message: "Please Enter Name.")
-                
+            self.showAlert(title: "Empty Field", message: "Please Enter Name.")
+            
             
             return
         }
